@@ -1,0 +1,53 @@
+/**
+ selector {
+    property: value
+ }
+ **/
+
+ body {
+    background-color: #606470;
+ }
+.name{
+   color:  #93deff;
+}
+.job{
+   color:  #93deff;
+}
+#candicemendoza{
+   font-size: xx-large;
+   text-align: center;
+   border: 5px solid #f7f7f7;
+   padding: 20px;
+   margin: 20px;
+   padding-left: 20px;
+}
+/** class exapmle 
+.div1 {
+   color: chartreuse;
+  border: 3px solid black;
+   border-radius: 10%;
+}
+
+#helloWorld{
+   font-size: large;
+   color: fuchsia;
+   border: 4px dotted darkred;
+   text-decoration: dashed;
+   padding: 20px;
+   margin: 20px;
+   padding-left: 20px;
+}
+*/
+.center{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a:link{
+   text-decoration: underline;
+   color: hotpink;
+}
+a:visited{
+   text-decoration: line-through;
+}
